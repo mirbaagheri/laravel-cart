@@ -1,8 +1,8 @@
 ## LaravelCart
-[![Total Downloads](https://poser.pugx.org/mirbaagheri/cart/downloads.png)](https://packagist.org/packages/mirbaagheri/cart)
-[![Latest Stable Version](https://poser.pugx.org/mirbaagheri/cart/v/stable)](https://packagist.org/packages/mirbaagheri/cart)
-[![Latest Unstable Version](https://poser.pugx.org/mirbaagheri/cart/v/unstable)](https://packagist.org/packages/mirbaagheri/cart)
-[![License](https://poser.pugx.org/mirbaagheri/cart/license)](https://packagist.org/packages/mirbaagheri/cart)
+[![Total Downloads](https://poser.pugx.org/mirbaagheri/cart/downloads.png)](https://packagist.org/packages/mirbaagheri/laravel-cart)
+[![Latest Stable Version](https://poser.pugx.org/mirbaagheri/cart/v/stable)](https://packagist.org/packages/mirbaagheri/laravel-cart)
+[![Latest Unstable Version](https://poser.pugx.org/mirbaagheri/cart/v/unstable)](https://packagist.org/packages/mirbaagheri/laravel-cart)
+[![License](https://poser.pugx.org/mirbaagheri/cart/license)](https://packagist.org/packages/mirbaagheri/laravel-cart)
 
 This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 10+.
 

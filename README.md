@@ -8,8 +8,6 @@ This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/L
 
 ## Installation
 
-Install the [package](https://packagist.org/packages/mirbaagheri/cart) through [Composer](http://getcomposer.org/). 
-
 Run the Composer require command from the Terminal:
 
     composer require mirbaagheri/laravel-cart

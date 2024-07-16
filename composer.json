@@ -1,0 +1,47 @@
+{
+    "name": "mirbaagheri/laravel-cart",
+    "description": "Laravel Cart",
+    "keywords": ["laravel", "cart"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob Gloudemans",
+            "email": "info@robgloudemans.nl"
+        },
+        {
+            "name": "Patrick Henninger",
+            "email": "privat@skyraptor.eu",
+            "homepage": "https://skyraptor.eu/"
+        },
+        {
+            "name": "Sayed",
+            "email": "mostafa.mirii65@gmail.com",
+            "homepage": "https://mirbaagheri.ir/"
+        }
+    ],
+    "require": {
+        "illuminate/support": "10.*||^11",
+        "illuminate/session": "10.*||^11",
+        "illuminate/events": "10.*||^11",
+        "nesbot/carbon": "^2.62||^2.67||^2.72||^3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mirbaagheri\\Cart\\": "src/"
+        }
+    },
+    "suggest": {
+        "gloudemans/notify": "Simple flash notifications for Laravel"
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mirbaagheri\\Cart\\CartServiceProvider"
+            ],
+            "aliases": {
+                "Cart": "Mirbaagheri\\Cart\\Facades\\Cart"
+            }
+        }
+    }
+}

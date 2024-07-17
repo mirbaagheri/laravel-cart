@@ -4,7 +4,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/mirbaagheri/laravel-cart/v/unstable)](https://packagist.org/packages/mirbaagheri/laravel-cart)
 [![License](https://poser.pugx.org/mirbaagheri/laravel-cart/license)](https://packagist.org/packages/mirbaagheri/laravel-cart)
 
-This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 10+.
+This is a fork of [Bumbummen99's LaravelShoppingcart](bumbummen99/LaravelShoppingcart) compatible with Laravel 10+.
 
 ## Installation
 
